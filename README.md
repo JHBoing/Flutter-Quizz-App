@@ -1,2 +1,2 @@
 # Flutter-Quizz-App
-Quizz App made in Dart/Flutter
+Quizz App made to learn Dart/Flutter.
